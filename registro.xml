@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+
+<estudiante>
+
+<estudiante1>
+<apellidos>Galarza Vargas</apellidos>
+<nombres>Javier Alejandro</nombres>
+<semestre>1 Nivel</semestre>
+<direccion></direccion>
+<telefono>0912783243</telefono>
+<correo_electronico>e1315255750@live.uleam.edu.ec</correo_electronico>
+</estudiante1>
+
+<estudiante2>
+<apellidos>Intriago Castillo</apellidos>
+<nombres>Jonathan Alexis</nombres>
+<semestre>2 Nivel</semestre>
+<direccion></direccion>
+<telefono>0934783223</telefono>
+<correo_electronico> e1316366556@live.uleam.edu.ec </correo_electronico>
+</estudiante2>
+
+<estudiante3>
+<apellidos>Lucas Delgado</apellidos>
+<nombres>Victor Andres</nombres>
+<semestre>3 Nivel</semestre>
+<direccion></direccion>
+<telefono>0934785241</telefono>
+<correo_electronico>e1350854269@live.uleam.edu.ec </correo_electronico>
+</estudiante3>
+
+<estudiante4>
+<apellidos>Mera Mendoza</apellidos>
+<nombres>Melany Jaritza</nombres>
+<semestre>4 Nivel</semestre>
+<direccion></direccion>
+<telefono>0967348225</telefono>
+<correo_electronico>e1317597472@live.uleam.edu.ec </correo_electronico>
+</estudiante4>
+
+<estudiante5>
+<apellidos>Morales Castro</apellidos>
+<nombres>Maria Jose</nombres>
+<semestre>5 Nivel</semestre>
+<direccion></direccion>
+<telefono>0963248746</telefono>
+<correo_electronico>e1805452248@live.uleam.edu.ec </correo_electronico>
+</estudiante5>
+
+<estudiante6>
+<apellidos>Napa Pillasagua</apellidos>
+<nombres>Luis Fernando</nombres>
+<semestre>6 Nivel</semestre>
+<direccion></direccion>
+<telefono>0921982834</telefono>
+<correo_electronico>e1720346905@live.uleam.edu.ec</correo_electronico>
+</estudiante6>
+
+<estudiante7>
+<apellidos>Cedeño Pinargote</apellidos>
+<nombres>Bryan Jardel</nombres>
+<semestre>7 Nivel</semestre>
+<direccion></direccion>
+<telefono>0912987302</telefono>
+<correo_electronico>e1350599344@live.uleam.edu.ec </correo_electronico>
+</estudiante7>
+
+<estudiante8>
+<apellidos>Esmeralda Delgado</apellidos>
+<nombres>Jair Ignacio</nombres>
+<semestre>8 Nivel</semestre>
+<direccion></direccion>
+<telefono>0912930457</telefono>
+<correo_electronico>e1726960238@live.uleam.edu.ec </correo_electronico>
+</estudiante8>
+
+<estudiante9>
+<apellidos>Delgado Chavarria</apellidos>
+<nombres>Kevin Cristhofer</nombres>
+<semestre>9 Nivel</semestre>
+<direccion></direccion>
+<telefono>0929894013</telefono>
+<correo_electronico>e1351771801@live.uleam.edu.ec </correo_electronico>
+</estudiante9>
+
+<estudiante10>
+<apellidos>Rosado Laz</apellidos>
+<nombres>Arianna Patricio</nombres>
+<semestre>10 Nivel</semestre>
+<direccion></direccion>
+<telefono>0978832198</telefono>
+<correo_electronico>e1351494636@live.uleam.edu.ec </correo_electronico>
+</estudiante10>
+
+</estudiante>

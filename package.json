@@ -1,0 +1,16 @@
+{
+  "name": "rde-mongodb",
+  "version": "0.9.3",
+  "main": "xmljson.html",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
